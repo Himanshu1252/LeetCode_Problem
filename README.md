@@ -14,4 +14,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0136-single-number) |
+| [0371-sum-of-two-integers](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0371-sum-of-two-integers) |
+## Math
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
