@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0055-jump-game) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0011-container-with-most-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0344-reverse-string](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0344-reverse-string) |
 ## Bit Manipulation
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0055-jump-game) |
 ## Binary Search
 |  |
