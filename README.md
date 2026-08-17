@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0371-sum-of-two-integers) |
 ## Math
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0371-sum-of-two-integers) |
 ## Dynamic Programming
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
