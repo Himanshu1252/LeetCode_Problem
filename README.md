@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0231-power-of-two) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0268-missing-number) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0344-reverse-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
