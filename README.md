@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0371-sum-of-two-integers) |
 | [1512-number-of-good-pairs](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1512-number-of-good-pairs) |
+| [1927-sum-game](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/2235-add-two-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -96,12 +97,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0344-reverse-string) |
+| [1927-sum-game](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1927-sum-game) |
 | [2390-removing-stars-from-a-string](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0055-jump-game) |
+| [1927-sum-game](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1927-sum-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
