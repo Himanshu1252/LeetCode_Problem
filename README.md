@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0344-reverse-string) |
 | [0791-custom-sort-string](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0791-custom-sort-string) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0020-valid-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0287-find-the-duplicate-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
