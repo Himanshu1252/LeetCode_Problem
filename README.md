@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0371-sum-of-two-integers) |
 | [1512-number-of-good-pairs](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1512-number-of-good-pairs) |
 | [1927-sum-game](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1927-sum-game) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
