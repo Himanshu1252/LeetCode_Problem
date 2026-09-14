@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0704-binary-search) |
 | [1051-height-checker](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1051-height-checker) |
+| [1089-duplicate-zeros](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1089-duplicate-zeros) |
 | [1512-number-of-good-pairs](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1929-concatenation-of-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0349-intersection-of-two-arrays) |
+| [1089-duplicate-zeros](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1089-duplicate-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
