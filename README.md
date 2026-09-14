@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0371-sum-of-two-integers) |
+| [0836-rectangle-overlap](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0836-rectangle-overlap) |
 | [1512-number-of-good-pairs](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1512-number-of-good-pairs) |
 | [1927-sum-game](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/2235-add-two-integers) |
@@ -184,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0020-valid-parentheses) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
