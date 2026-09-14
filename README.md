@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0704-binary-search) |
+| [1051-height-checker](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1051-height-checker) |
 | [1512-number-of-good-pairs](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1929-concatenation-of-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0791-custom-sort-string](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0791-custom-sort-string) |
+| [1051-height-checker](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1051-height-checker) |
 ## Counting
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1051-height-checker) |
 ## Stack
 |  |
 | ------- |
@@ -189,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0836-rectangle-overlap) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
