@@ -18,8 +18,8 @@ public:
             temp = temp->next;
             count++;
         }
-        int index = (count/2)+1;
-        for(int i=0;i<index-1;i++){
+        int index = (count/2);
+        for(int i=0;i<index;i++){
             ans = ans->next;
         }
         return ans;
