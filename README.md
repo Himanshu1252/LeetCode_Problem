@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0344-reverse-string) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0242-valid-anagram) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0287-find-the-duplicate-number) |
 ## Bracket Sequences
 |  |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
