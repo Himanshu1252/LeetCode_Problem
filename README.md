@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1089-duplicate-zeros) |
 | [1512-number-of-good-pairs](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1929-concatenation-of-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/2235-add-two-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/3871-count-commas-in-range-ii) |
