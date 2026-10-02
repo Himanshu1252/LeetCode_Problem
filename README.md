@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1051-height-checker](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1051-height-checker) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Quicksort
