@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0053-maximum-subarray) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0088-merge-sorted-array) |
