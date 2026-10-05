@@ -3,8 +3,8 @@ public:
     int sumOfUnique(vector<int>& nums) {
         vector<int> freq(101);
         int sum = 0;
-        for(int i=0;i<nums.size();i++){
-            freq[nums[i]]++;
+        for(int x : nums){
+            freq[x]++;
         }
         for(int i=0;i<freq.size();i++){
             if(freq[i] == 1){
