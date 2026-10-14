@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/3875-construct-uniform-parity-array-i) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0055-jump-game) |
 | [1927-sum-game](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1927-sum-game) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Search
 |  |
 | ------- |
