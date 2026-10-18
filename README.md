@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0876-middle-of-the-linked-list) |
 | [1089-duplicate-zeros](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1089-duplicate-zeros) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0567-permutation-in-string) |
 | [0791-custom-sort-string](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0796-rotate-string) |
