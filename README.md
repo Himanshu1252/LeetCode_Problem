@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0876-middle-of-the-linked-list) |
 | [1089-duplicate-zeros](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1089-duplicate-zeros) |
 ## Bit Manipulation
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0567-permutation-in-string](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0567-permutation-in-string) |
 | [0791-custom-sort-string](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0791-custom-sort-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1512-number-of-good-pairs) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0345-reverse-vowels-of-a-string) |
+| [0567-permutation-in-string](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0567-permutation-in-string) |
 | [0791-custom-sort-string](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0796-rotate-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -261,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0852-peak-index-in-a-mountain-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
