@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0791-custom-sort-string](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0791-custom-sort-string) |
 | [1051-height-checker](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1051-height-checker) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Quicksort
 |  |
 | ------- |
