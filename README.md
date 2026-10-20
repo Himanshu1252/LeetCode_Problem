@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0074-search-a-2d-matrix) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/2390-removing-stars-from-a-string) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
