@@ -1,14 +1,14 @@
 class Solution {
 public:
-    bool searchInRow(vector<vector<int>>& matrix, int target,int row){
-        int col = matrix[0].size();
+    bool searchInRow(vector<vector<int>>& matrix, int target,int midRow){
+    int col = matrix[0].size();
     int st = 0, end = col - 1;
         while(st <= end){
             int mid = st+(end-st)/2;
-            if(target == matrix[row][mid]){
+            if(target == matrix[midRow][mid]){
                 return true;
             }
-            else if(target > matrix[row][mid]){
+            else if(target > matrix[midRow][mid]){
                 st = mid+1;
             }
             else{
