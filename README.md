@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1512-number-of-good-pairs) |
 | [1927-sum-game](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/2235-add-two-integers) |
+| [2427-number-of-common-factors](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/2427-number-of-common-factors) |
 | [2965-find-missing-and-repeated-values](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -239,11 +240,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Game Theory
 |  |
@@ -308,4 +311,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0509-fibonacci-number) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
