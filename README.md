@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0055-jump-game) |
@@ -329,4 +330,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
