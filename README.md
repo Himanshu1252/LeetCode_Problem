@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0053-maximum-subarray) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0169-majority-element) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0240-search-a-2d-matrix-ii) |
@@ -329,10 +332,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0051-n-queens) |
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Himanshu1252/LeetCode_Problem/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
